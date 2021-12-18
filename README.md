@@ -19,7 +19,7 @@
 
 Öncelikle verisetindeki hayatta kalma anlamında anlamlı bir bilgi vermediği bariz olan rastgele olarak oluşturulmuş sütunları verisetinden atalım. Bir kişinin ismi bilet numarası veya ıd sinin hayatta kalması ile bir alakasının olamayacağını düşündüğüm için bu sütunları atıyorum. 
 
-![img1](......Images/Image1.png)
+![img1](Images/Image1.png)
 yukarıdaki görselleştirmeden çıkarabileceğimiz 2 sonuç var. Birincisi bu veride eksik veriler mevcut ve bunların icabına bakılmalı. İkincisi bazı sütunlar object tipinde bu sütunların categorical a çevrilmesi gerekiyor.
 
 ### Eksik gözlem verilerinin icabına bakılması.
